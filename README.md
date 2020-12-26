@@ -1,2 +1,3 @@
-# My_Work
-Repository containing all of my favorite coding projects 
+# My Work
+*This public repository was made for sharing my favorite coding works.*
+
